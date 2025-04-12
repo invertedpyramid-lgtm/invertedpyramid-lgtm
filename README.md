@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @invertedpyramid-lgtm
-- 👀 I’m interested in Coding and Web Development
-- 🌱 I’m currently learning Javascript and C++
-- 💞️ I’m looking to collaborate on Python 
-- 📫 How to reach me: IG: _hersheysink_
-- 😄 Pronouns: she/hee
+👋 Hi, I’m @invertedpyramid-lgtm
+👀 I’m interested in Coding and Web Development
+🌱 I’m currently learning Javascript and C++
+💞️ I’m looking to collaborate on Python 
+📫 How to reach me: IG _hersheysink_
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 
 <!---
